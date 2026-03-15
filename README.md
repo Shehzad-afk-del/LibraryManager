@@ -1,5 +1,5 @@
 # 📚 LibraryManager
-
+![Tests](https://github.com/Shehzad-afk-del/LibraryManager/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![GitHub stars](https://img.shields.io/github/stars/Shehzad-afk-del/LibraryManager?style=social)
